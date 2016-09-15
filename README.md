@@ -38,3 +38,9 @@ jekyll 3.2.1 | Error:  Invalid argument - Failed to watch "/mnt/d/work/Github/en
 http://www.codemunki.es/2016/09/07/jekyll-on-windows-subsystem-for-linux/
 
 bundle exec jekyll serve -w --force_polling
+
+Version 1607 (OS BUild 14393.105) destroyed boot loader.
+http://www.omgubuntu.co.uk/2016/08/windows-10-anniversary-update-delete-partition reports of deleted os also, mine did not show that
+
+We can fix it from http://windowsreport.com/anniversary-update-destroys-boot-loader-dual-boot-config/
+
